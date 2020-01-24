@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="70dp"
+        android:layout_marginTop="50dp"
         android:fontFamily="@font/roboto"
         android:text="@string/number"
         android:textColor="#000000"
@@ -24,7 +24,7 @@
         android:layout_width="110dp"
         android:layout_height="40dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="180dp"
         android:background="#44A4C9"
         android:fontFamily="@font/roboto"
         android:shadowColor="#2167F3"
@@ -39,7 +39,7 @@
         android:layout_width="110dp"
         android:layout_height="40dp"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="270dp"
+        android:layout_marginTop="250dp"
         android:background="#44A4C9"
         android:fontFamily="@font/roboto"
         android:shadowColor="#2167F3"
@@ -47,6 +47,15 @@
         android:textColor="#FFFFFF"
         android:textColorHighlight="#FFEB3B"
         android:textColorLink="#FFFFFF" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="110dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="310dp"
+        android:src="@drawable/empty"
+        tools:src="@drawable/run" />
 
 
 </RelativeLayout>
