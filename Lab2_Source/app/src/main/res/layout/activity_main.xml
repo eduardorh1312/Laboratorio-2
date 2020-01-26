@@ -55,7 +55,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="310dp"
         android:src="@drawable/empty"
-        tools:src="@drawable/run" />
+        />
 
 
 </RelativeLayout>
